@@ -1,5 +1,4 @@
 👋  Hi, I’m @AmoghGaikwad11.
-
 👀  I’m interested in Agentic AI & Machine learning.
 
 🌱  I’m currently learning about Machine learning/Deep learning concepts and also focus of Building Full Stack Application Projects.
